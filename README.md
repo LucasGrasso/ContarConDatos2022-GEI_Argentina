@@ -8,4 +8,7 @@ Mi Postulacion para el [Concurso contar con datos 2022](https://contarcondatos.m
 
 ### Hecho con:
 ![jupyter_notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![numpy](https://img.shields.io/badge/NumPy-00aae4?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-9B26B6?style=for-the-badge&logo=pandas&logoColor=white)
+![plotly](https://img.shields.io/badge/Plotly-3776AB?style=for-the-badge&logo=plotly&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-AA336A?style=for-the-badge&logo=figma&logoColor=white)
